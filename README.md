@@ -1,4 +1,4 @@
-# About Countdown Timer on 14-Segment Indicators
+# About 14 Segment Clock
 This project models the operation of a countdown timer on 14-segment indicators. There are 8 modes for switching using an eight-position key. The working circuit was developed in the Multisim simulation program and the corresponding program was written in Assembler in the Keil development IDE.
 # Work details
 The block diagram of the countdown timer (Fig. 1.1) consists of three systems (blocks): external control periphery, data processing system, and information output system.
